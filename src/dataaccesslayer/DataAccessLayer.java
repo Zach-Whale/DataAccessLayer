@@ -28,7 +28,7 @@ public class DataAccessLayer {
         
         try
         {
-            input = new FileInputStream("C:\\Users\\Zach\\Documents\\NetBeansProjects\\DataAccessLayer\\src\\properties\\database_connection.properties");
+            input = new FileInputStream("C:\\Users\\Conner\\Documents\\NetBeansProjects\\DataAccessLayer\\src\\properties\\database_connection.properties");
             
             prop.load(input);
             
